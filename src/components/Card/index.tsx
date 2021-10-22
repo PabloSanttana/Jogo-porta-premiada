@@ -1,11 +1,9 @@
 import styles from "./styles.module.css";
-
 interface DoorProps {
   text: string;
   type: boolean;
   onChange: () => void;
 }
-
 export default function Card(props: DoorProps) {
   return (
     <div
