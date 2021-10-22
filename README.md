@@ -18,5 +18,7 @@ usando api rest e soket.io para comunição.
 
 #### Layout Game:
 
-![layout](https://github.com/PabloSanttana/Curso-NLW-01/blob/master/layout.png)
+![layout](https://github.com/PabloSanttana/Jogo-porta-premiada/blob/main/public/jogo1.png)
+![layout](https://github.com/PabloSanttana/Jogo-porta-premiada/blob/main/public/jogo2.png)
+![layout](https://github.com/PabloSanttana/Jogo-porta-premiada/blob/main/public/jogo3.png)
 
